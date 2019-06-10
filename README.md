@@ -2,6 +2,8 @@
 
 using https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight
 
+information in Japanese https://slideship.com/users/@narumincho/presentations/2019/06/KVmzZfq1ZRF9zsS872tdB5/
+
 ![](https://narumincho.com/github/lcd0.jpg)
 ![](https://narumincho.com/github/lcd1.jpg)
 ![](https://narumincho.com/github/lcd2.jpg)
