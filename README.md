@@ -2,7 +2,7 @@
 
 using https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight
 
-information in Japanese https://slideship.com/users/@narumincho/presentations/2019/06/KVmzZfq1ZRF9zsS872tdB5/
+information in Japanese https://drive.google.com/file/d/1StExwYdav9Ktnx2Tc3rtDjtWwYaps2Iv/view?usp=sharing
 
 ![](https://user-images.githubusercontent.com/16481886/66654791-f2c77f00-ec75-11e9-91d2-f2ab54d53f41.jpg)
 ![](https://user-images.githubusercontent.com/16481886/66654792-f3601580-ec75-11e9-8168-76cbeb7ebe1a.jpg)
